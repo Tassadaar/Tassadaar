@@ -1,3 +1,4 @@
+Me when I have to read shitty bioinformatics source code because some randome perl script failed without warning:
 ![](https://github.com/Tassadaar/Tassadaar/blob/main/marcille_breakdance.gif)
 <!--
 **Tassadaar/Tassadaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
